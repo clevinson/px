@@ -17,6 +17,7 @@ GOALS
 DEPENDENCIES
 
   * glfw 3.0+ (http://www.glfw.org)
+  * glew (http://glew.sourceforge.net)
 
 INSTALLING
 
